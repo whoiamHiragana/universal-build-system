@@ -19,7 +19,7 @@
 
 ### Установка
 ```bash
-git clone https://github.com/yourusername/universal-build-system.git
+git clone https://github.com/whoiamHiragana/universal-build-system.git
 cd universal-build-system
 ```
 
